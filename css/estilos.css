@@ -35,3 +35,10 @@ body{
 #post{
     margin:30px
 }
+#footer{
+    background-color: grey;
+    color: white;
+    margin-top: 46px;
+    padding: 5px;
+    text-align: center;
+}
