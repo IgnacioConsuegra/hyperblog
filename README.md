@@ -6,11 +6,11 @@ Este post, forma parte del curso de git y git hub de platzi
 > - niñita 
 
 En este curso veremos todo sobre : 
-- todo sobre git 
-- el flujo de trabajo de git hub 
-- el amor por las buenas practicas
-- trucos muy locos del profesor 
-- las multiples personalidades de freddy 
-
+* todo sobre git 
+* el flujo de trabajo de git hub 
+* el amor por las buenas practicas
+* trucos muy locos del profesor 
+* las multiples personalidades de freddy 
+* Creado por el increible platzi Team 
 **ESTO ES UN CHISTE.........
 **
