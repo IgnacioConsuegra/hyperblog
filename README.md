@@ -12,5 +12,6 @@ En este curso veremos todo sobre :
 * trucos muy locos del profesor 
 * las multiples personalidades de freddy 
 * Creado por el increible platzi Team 
+* incluye ejemplos en windows linux y max
 **ESTO ES UN CHISTE.........
 **
